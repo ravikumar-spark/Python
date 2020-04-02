@@ -1,3 +1,4 @@
+# To Print the Positive and Negative Indexes of String
 s = 'learning python is easy'
 n = len(s)
 i = 0
